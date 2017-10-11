@@ -1,4 +1,4 @@
 # Robot-Localisation-Simulator
-This is a simulator for implementing and improving localisation and path planning algorithms of an autonomous robot. The idea is that a robot lost in a known arena would be able to localise itself and move to the target point in the shortest possible time. 
+This is a simulator for implementing and improving localisation and path planning algorithms of an autonomous robot. This simulator has been primarily created for testing the Monte Carlo localisation. The idea is that a robot lost in a known arena would be able to localise itself and move to the target point in the shortest possible time.
 
-
+To run the simulator, download all the files and run the Robot_Sim.py file. At the moment the simulator can create a lost robot and a set of particles (to be used in the localisation) in a selected Map. The simulator is not complete at the moment. I will finish the measurement, localisation and path planning functions shortly. However localisation and path planning function can be modified to test your prefered algorithms.    
